@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="s18591_perceptron" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a31c60e7-ea50-4262-bb4d-cd58ea439961" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXBS4jNNwOTxZd4Gp83ir3LdzZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="Z:/Code/TPO(JAVA)/KNN_NAI" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\Code\TPO(JAVA)\KNN_NAI\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\Code\TPO(JAVA)\KNN_NAI\src\Iris" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="KNN_NAI" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s18591_knn.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/s18591_knn/s18591_knn.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.s18591_knn.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a31c60e7-ea50-4262-bb4d-cd58ea439961" name="Default Changelist" comment="" />
+      <created>1584975557650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584975557650</updated>
+      <workItem from="1584975607696" duration="18875000" />
+      <workItem from="1585163556636" duration="650000" />
+      <workItem from="1585165074477" duration="4180000" />
+      <workItem from="1585298987813" duration="533000" />
+      <workItem from="1585300144949" duration="2520000" />
+      <workItem from="1585306062565" duration="3756000" />
+      <workItem from="1585309971654" duration="120000" />
+      <workItem from="1585489927513" duration="51000" />
+      <workItem from="1585747927249" duration="736000" />
+      <workItem from="1585748770208" duration="118000" />
+      <workItem from="1585748960622" duration="15320000" />
+      <workItem from="1585765937189" duration="1628000" />
+      <workItem from="1585834687428" duration="1040000" />
+      <workItem from="1585901147212" duration="1459000" />
+      <workItem from="1586505799253" duration="3333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="876" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1585748980503">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="876" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1474.864@0.0.1474.864" timestamp="1585748980503" />
+    <state x="491" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585164188723">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="491" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1474.864@0.0.1474.864" timestamp="1585164188723" />
+    <state x="518" y="180" key="FileChooserDialogImpl" timestamp="1585901204184">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="518" y="180" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1585901204184" />
+    <state width="1431" height="215" key="GridCell.Tab.0.bottom" timestamp="1586512574587">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="215" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1586512574587" />
+    <state width="1431" height="215" key="GridCell.Tab.0.center" timestamp="1586512574586">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="215" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1586512574586" />
+    <state width="1431" height="215" key="GridCell.Tab.0.left" timestamp="1586512574586">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="215" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1586512574586" />
+    <state width="1431" height="215" key="GridCell.Tab.0.right" timestamp="1586512574586">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="215" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1586512574586" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1585834972045">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1585834972045" />
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1586505798213">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1586505798213" />
+  </component>
+</project>
